@@ -1,2 +1,2 @@
 # personal-site
-Github for learning
+My personal website 
